@@ -1,0 +1,2 @@
+# maguro
+Maguro Game Controller
