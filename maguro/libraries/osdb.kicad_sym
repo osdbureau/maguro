@@ -101,7 +101,7 @@
 			(pin power_in line
 				(at 12.7 0 180)
 				(length 2.54)
-				(name "5V_in"
+				(name "V_in"
 					(effects
 						(font
 							(size 1.27 1.27)
