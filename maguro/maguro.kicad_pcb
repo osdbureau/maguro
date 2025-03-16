@@ -3594,7 +3594,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R801"
-			(at 0 1.65 90)
+			(at -2.54 0 0)
 			(layer "B.SilkS")
 			(uuid "9e0e2b99-28f6-43dc-b42e-bc1a5f4c446e")
 			(effects
@@ -3800,7 +3800,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R901"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "24919564-4aec-4f17-ab02-df3ebfd51e7a")
 			(effects
@@ -6755,7 +6755,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1301"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "65b67643-888b-4c90-a20a-753130200ba3")
 			(effects
@@ -6961,7 +6961,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1101"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "e0e21a20-26c5-4a37-a01f-cc2cbbe9fdc8")
 			(effects
@@ -7167,7 +7167,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1001"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "f4f1f8fc-f026-4085-be69-26c21dda278d")
 			(effects
@@ -7373,7 +7373,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1401"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "65a40d15-a749-40b1-90de-0b3f9f215799")
 			(effects
@@ -7579,7 +7579,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R601"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "8c710277-4397-4c3f-a8bb-3a3ed9251a83")
 			(effects
@@ -7785,7 +7785,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R401"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "315c4467-7514-4a5d-81c0-2b8280202b24")
 			(effects
@@ -7991,7 +7991,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R501"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "da139589-3397-4e71-aa68-52e2dee40586")
 			(effects
@@ -8197,7 +8197,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R301"
-			(at 0 1.65 90)
+			(at -2.54 0 180)
 			(layer "B.SilkS")
 			(uuid "390b5812-92a6-4a86-8777-c2258a032c31")
 			(effects
