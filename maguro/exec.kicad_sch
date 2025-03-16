@@ -1,0 +1,162 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c080408d-04c4-4afe-8a68-c19c12055d17")
+	(paper "USLetter")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 110.49 78.74) (xy 127 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39b5661b-b005-4b98-8050-2b7fd983b87a")
+	)
+	(wire
+		(pts
+			(xy 110.49 91.44) (xy 127 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cd824c0-f70b-45b2-8f61-e4c52a029c20")
+	)
+	(hierarchical_label "start"
+		(shape output)
+		(at 110.49 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a87227f-c031-49a0-a60c-3c2b19cf8d87")
+	)
+	(hierarchical_label "select"
+		(shape output)
+		(at 110.49 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aaf77254-140a-459b-8a9f-40e87edff074")
+	)
+	(sheet
+		(at 127 88.9)
+		(size 13.97 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "229693f0-1268-4346-bffc-ce47073f375d")
+		(property "Sheetname" "select_button"
+			(at 127 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 127 95.0726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 127 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "button" output
+			(at 127 91.44 180)
+			(uuid "6ac49976-58f9-4a73-93d8-e980fcc4a839")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/42afdfe9-5454-4c8b-b3c3-c360e49c9a99"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 15.24 5.334)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f3d5ee6f-94c7-4d28-a723-3d8663c1143f")
+		(property "Sheetname" "start_button"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 127 82.1186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "button" output
+			(at 127 78.74 180)
+			(uuid "abef492f-6553-4c09-884e-b9eab724f298")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/42afdfe9-5454-4c8b-b3c3-c360e49c9a99"
+					(page "13")
+				)
+			)
+		)
+	)
+)

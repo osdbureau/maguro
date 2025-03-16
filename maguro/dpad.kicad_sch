@@ -1,0 +1,344 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c796f593-42bb-4937-84be-1baaa782a9c7")
+	(paper "USLetter")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 86.36 78.74) (xy 101.6 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a22a7e8e-8189-4117-af1c-cb136717ffd1")
+	)
+	(wire
+		(pts
+			(xy 86.36 53.34) (xy 101.6 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8c51700-162a-4a62-a0ce-2ae02e6d9a2d")
+	)
+	(wire
+		(pts
+			(xy 86.36 91.44) (xy 101.6 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d098b011-9a48-41ae-870b-33be5c7580a3")
+	)
+	(wire
+		(pts
+			(xy 86.36 66.04) (xy 101.6 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e44757b6-7a9d-445f-95b2-09030db07bbb")
+	)
+	(hierarchical_label "b3"
+		(shape output)
+		(at 86.36 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "071ed3a4-311f-4b6a-b5a5-868f83670e3e")
+	)
+	(hierarchical_label "b1"
+		(shape output)
+		(at 86.36 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6504839b-2112-4ee0-ba0f-2a36331ebe4d")
+	)
+	(hierarchical_label "b0"
+		(shape output)
+		(at 86.36 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9767c42c-5278-4437-a18b-b2e2c3349b44")
+	)
+	(hierarchical_label "b2"
+		(shape output)
+		(at 86.36 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d3610b33-a8a0-48f6-822c-54d0c01279d9")
+	)
+	(sheet
+		(at 101.6 88.9)
+		(size 15.24 5.334)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24a8338b-fb82-43a9-ae41-dcc72e9f018c")
+		(property "Sheetname" "push_button3"
+			(at 101.6 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 101.6 94.8186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 101.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "button" output
+			(at 101.6 91.44 180)
+			(uuid "c8d10a28-491c-4395-bd0f-7d5e27ff1ce3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/20c5ed67-6910-4ba2-8464-b4120df21222"
+					(page "5")
+				)
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/995845ba-43ed-4600-80e1-7adcb6e1246a"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 63.5)
+		(size 15.24 5.334)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4cc69544-d583-486c-8826-0c2e5bb61a42")
+		(property "Sheetname" "push_button1"
+			(at 101.6 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 101.6 69.4186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 101.6 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "button" output
+			(at 101.6 66.04 180)
+			(uuid "fa4baffc-c098-4469-a0f4-9c2e4c80bb14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/20c5ed67-6910-4ba2-8464-b4120df21222"
+					(page "4")
+				)
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/995845ba-43ed-4600-80e1-7adcb6e1246a"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 50.546)
+		(size 15.24 5.334)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "820622a1-5752-4149-92ca-3e5287ca62a3")
+		(property "Sheetname" "push_button0"
+			(at 101.6 49.8344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 101.6 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 101.6 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "button" output
+			(at 101.6 53.34 180)
+			(uuid "b7b3b2b3-b40d-452c-93ee-c22ce441f2cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/995845ba-43ed-4600-80e1-7adcb6e1246a"
+					(page "8")
+				)
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/20c5ed67-6910-4ba2-8464-b4120df21222"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 76.2)
+		(size 15.24 5.334)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e496385e-88d1-4dae-920f-084c7b0a282c")
+		(property "Sheetname" "push_button2"
+			(at 101.6 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_button.kicad_sch"
+			(at 101.6 82.1186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 101.6 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "button" output
+			(at 101.6 78.74 180)
+			(uuid "e759226f-c5b7-417e-9e26-18ebd96cc235")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/20c5ed67-6910-4ba2-8464-b4120df21222"
+					(page "6")
+				)
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f/995845ba-43ed-4600-80e1-7adcb6e1246a"
+					(page "10")
+				)
+			)
+		)
+	)
+)
