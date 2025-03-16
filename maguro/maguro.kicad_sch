@@ -1906,6 +1906,138 @@
 			)
 		)
 	)
+	(sheet
+		(at 203.2 127)
+		(size 12.7 8.382)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6c36aed-acc7-4aeb-be6a-8df5130198de")
+		(property "Sheetname" "right_joystick"
+			(at 203.2 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "joystick.kicad_sch"
+			(at 203.2 135.9666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "x_pot" output
+			(at 203.2 129.54 180)
+			(uuid "955296b7-0aca-4bd2-8ae6-bc0db032a3ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "y_pot" output
+			(at 203.2 132.08 180)
+			(uuid "6c6bbd4f-9789-4a6a-be16-eb8c45196774")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 147.32)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f99ea653-1615-4a19-a902-af0e6be93008")
+		(property "Sheetname" "left_joystick"
+			(at 203.2 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "joystick.kicad_sch"
+			(at 203.2 155.2706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 203.2 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "x_pot" output
+			(at 203.2 149.86 180)
+			(uuid "4d99a4b0-dd44-4873-95b9-ac4f8660cb2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "y_pot" output
+			(at 203.2 152.4 180)
+			(uuid "5d72fcec-4d95-4900-b095-31a5ed7845c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "maguro"
+				(path "/64a35719-70ce-4bea-be36-7f0da599755f"
+					(page "15")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

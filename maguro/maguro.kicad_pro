@@ -459,8 +459,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "osdb"
+    ],
+    "pinned_symbol_libs": [
+      "osdb"
+    ]
   },
   "meta": {
     "filename": "maguro.kicad_pro",
@@ -689,6 +693,14 @@
     [
       "229693f0-1268-4346-bffc-ce47073f375d",
       "select_button"
+    ],
+    [
+      "f99ea653-1615-4a19-a902-af0e6be93008",
+      "left_joystick"
+    ],
+    [
+      "a6c36aed-acc7-4aeb-be6a-8df5130198de",
+      "right_joystick"
     ]
   ],
   "text_variables": {}
